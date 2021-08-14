@@ -1,2 +1,3 @@
 # Proyecto1
-Código fuente en java
+Hola este es un archivo de prueba de laboratorio de electiva 2 :D
+
